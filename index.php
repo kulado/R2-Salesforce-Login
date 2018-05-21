@@ -1,1 +1,1 @@
-<?php include_once("mydomain.html"); ?>
+<?php include_once("r2.html"); ?>
